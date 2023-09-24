@@ -13,3 +13,7 @@ Project Steps
 Clone the Django Notes App repository from GitHub.
 
 ![Screenshot 2023-09-24 104442](https://github.com/sandesh1827/notes-app/assets/132772443/97815fad-f2a4-4ce4-a96e-9b0d8dc1239a)
+
+2. Install Docker
+ 
+Install Docker to containerize the Django application.
