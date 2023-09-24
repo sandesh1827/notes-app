@@ -64,4 +64,7 @@ Edit the Nginx configuration to set up a reverse proxy.
  
 Copy static files to the Nginx web root.
 
+![Screenshot 2023-09-24 111557](https://github.com/sandesh1827/notes-app/assets/132772443/3854ce8d-538d-4dbf-bfe9-f8936f711dd1)
+
+
    
