@@ -36,4 +36,6 @@ Edit the Nginx configuration to set up a reverse proxy.
 
 ![Screenshot 2023-09-24 105922](https://github.com/sandesh1827/notes-app/assets/132772443/bacec776-b1f2-42e9-b6b8-b0b2411d4a56)
 
+5. Add the reverse proxy configuration:
 
+   
