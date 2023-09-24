@@ -28,6 +28,7 @@ Build the Docker image and run the container in daemon mode on port 8000.
 
 ![Screenshot 2023-09-24 105608](https://github.com/sandesh1827/notes-app/assets/132772443/f186f933-53bd-49e7-aaae-f735cd68077a)
 
+![Screenshot 2023-09-24 105728](https://github.com/sandesh1827/notes-app/assets/132772443/9dbacf79-24ae-464b-a645-8c36f22c165f)
 
 
 
