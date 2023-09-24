@@ -66,5 +66,6 @@ Copy static files to the Nginx web root.
 
 ![Screenshot 2023-09-24 111557](https://github.com/sandesh1827/notes-app/assets/132772443/3854ce8d-538d-4dbf-bfe9-f8936f711dd1)
 
+![Screenshot 2023-09-24 111730](https://github.com/sandesh1827/notes-app/assets/132772443/2ebc1396-6e36-41d2-808a-4774cebeb2b0)
 
    
