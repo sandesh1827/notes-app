@@ -7,6 +7,26 @@ Introduction
 
 This project involves deploying a Django Notes App using Nginx as a reverse proxy on an AWS EC2 instance. The application allows users to manage and organize their notes and features user authentication and a user-friendly web interface.
 
+Prerequisites:
+
+AWS Account: You should have an AWS account to create and manage an EC2 instance.
+
+GitHub Account: You'll need a GitHub account to host your Django Notes App repository.
+
+Basic Linux Knowledge: Familiarity with basic Linux commands is essential for working with an EC2 instance.
+
+Python 3.x: Ensure Python 3.x is installed on your EC2 instance, as Django typically requires Python 3.
+
+Django Knowledge: Familiarity with Django and setting up Django projects is necessary.
+
+Docker Knowledge: Basic knowledge of Docker is required for containerizing your Django application.
+
+Nginx Installation: You should know how to install and configure Nginx on a Linux server.
+
+Security Groups and Firewall Rules: Understanding how to configure security groups and firewall rules on AWS to allow traffic on necessary ports (e.g., 8000) is 
+
+important for security.
+
 Project Steps
 
 1. Clone the Repository
