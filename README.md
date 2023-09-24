@@ -30,5 +30,9 @@ Build the Docker image and run the container in daemon mode on port 8000.
 
 ![Screenshot 2023-09-24 105728](https://github.com/sandesh1827/notes-app/assets/132772443/9dbacf79-24ae-464b-a645-8c36f22c165f)
 
+4. Nginx Reverse Proxy Configuration
+   
+Edit the Nginx configuration to set up a reverse proxy.
+
 
 
