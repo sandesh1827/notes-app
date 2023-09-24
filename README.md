@@ -20,3 +20,7 @@ Install Docker to containerize the Django application.
 
 ![Screenshot 2023-09-24 104917](https://github.com/sandesh1827/notes-app/assets/132772443/d44c3c8c-f924-4ebc-b747-edfbbfe71a60)
 
+3. Build and Run Docker Container
+   
+Build the Docker image and run the container in daemon mode on port 8000.
+
