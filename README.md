@@ -72,4 +72,7 @@ Access your application in a web browser using your instance's public IP address
 
 ![Screenshot 2023-09-24 111730](https://github.com/sandesh1827/notes-app/assets/132772443/2ebc1396-6e36-41d2-808a-4774cebeb2b0)
 
+   Conclusion
    
+You have successfully deployed your Django Notes App using Nginx as a reverse proxy on an AWS EC2 instance. Ensure that you have configured security groups and
+firewall rules properly to allow traffic on the necessary ports for your application.
